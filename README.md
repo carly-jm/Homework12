@@ -14,7 +14,6 @@ Employee-Tracker is an easy to use CLI application to manage employee database s
 
 - [Usage](#usage)
 
-- [Contributing](#contributing)
 
 - [Questions](#questions)
 
